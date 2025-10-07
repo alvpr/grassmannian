@@ -5,8 +5,8 @@ Structure famlily of grassmanniann constellations for MIMO noncoherent communica
 A preprint version of the paper explaining this desing can be found at: 
 
 Contributors:
-Álvaro Pendás Recondo
-Enrique Pendás Recondo
+- [Álvaro Pendás Recondo](https://scholar.google.com/citations?user=akuJpAIAAAAJ&hl=en)
+- [Enrique Pendás Recondo](https://scholar.google.com/citations?user=hlbBliwAAAAJ&hl=en)
 
 
 In this repository some constellations obtained with this approach can be found. Variables are:
