@@ -9,9 +9,11 @@ Contributors:
 - [Enrique Pendás-Recondo](https://scholar.google.com/citations?user=hlbBliwAAAAJ&hl=en)
 
 
-This repository contains examples of constellations obtained with this approach. Variables are:
+This repository contains examples of constellations obtained with this approach and the code to generate them. Variables are:
 
 - T -> Duration of the coherence block in symbols.
 - M -> Number of transmit antennas.
 - L -> Constellation size or number of points.
 - N -> Number of receive antennas.
+
+This code is intended for research purposes. Some tasks could be further automated; for example, the selection of geodesic indices is currently performed by running the script diametra_set.m and then manually adjusting the indices.
