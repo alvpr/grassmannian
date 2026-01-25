@@ -16,4 +16,4 @@ This repository contains examples of constellations obtained with this approach 
 - L -> Constellation size or number of points.
 - N -> Number of receive antennas.
 
-This code is intended for research purposes. Some tasks could be further automated; for example, the selection of geodesic indices is currently performed by running the script diametra_set.m and then manually adjusting the indices.
+This code is intended for research purposes. Some tasks could be further automated; for example, the selection of geodesic indices is currently performed by running the script diametral_set.m and then manually adjusting the indices.
