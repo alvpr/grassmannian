@@ -9,7 +9,9 @@ Contributors:
 - [Enrique Pendás-Recondo](https://scholar.google.com/citations?user=hlbBliwAAAAJ&hl=en)
 
 
-This repository contains examples of constellations obtained with this approach and the code to generate them. Variables are:
+This repository contains examples of constellations obtained with this approach and the code to generate them. The code was developed and tested using MATLAB 2023b, although examples of the generated constellations are also provided directly in the .mat files.
+
+Variables are:
 
 - T -> Duration of the coherence block in symbols.
 - M -> Number of transmit antennas.
