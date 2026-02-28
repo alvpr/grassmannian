@@ -2,7 +2,7 @@
 L = 16; % constellation size
 M = 2; % transmit antennas
 N = 2; % receive antennas
-T = 4; % time slots > max(M,N);
+T = 4; % time slots (T=2M)
 
 C = Cg16; %Adjust this line after running one of the Code_T_M scripts
 bit_labels = Bg16;%This is a matrix of L rows and log2(L) columns being K the number of codewords
@@ -83,4 +83,5 @@ legend('SER','BER');
 title(['T = ' num2str(T) ', ' 'M = ' num2str(M) ', ' 'N = ' num2str(N) ', ' 'L = ' int2str(L)])
 set(findall(gcf,'-property','FontSize'),'FontSize',fs)
 grid on
+
 
